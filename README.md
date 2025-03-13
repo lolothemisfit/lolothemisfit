@@ -22,7 +22,7 @@ I'm a junior full-stack developer with a passion for building clean, efficient, 
 📫 How to reach me:
 
   - email: lelonantshiba@gmail.com,
-  - Instagram:lolothemisfit
+  - Instagram: lolothemisfit
   - Linkedin: https://www.linkedin.com/in/lelona-ntshiba-718171243/
 
 ⚡ Fun fact:
