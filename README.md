@@ -5,11 +5,11 @@ I'm a junior full-stack developer with a passion for building clean, efficient, 
 
 🔧 Tech Stack:
 
-  **Backend:** Node.js, Laravel, PHP, Python, Java, SpringBoot, Javascript
-  **Frontend:** Alpine.js, Tailwind CSS, Blade
-  **Database:** MySQL, MongoDB, SQLite
-  **Version Control:** Git, GitHub
-  **Tools & Others:** Docker, PHPUnit, TDD, Composer, OOP, JUnit, Cypress, RESTFul API Integration, MacOS, Linux
+  - **Backend:** Node.js, Laravel, PHP, Python, Java, SpringBoot, Javascript
+  - **Frontend:** Alpine.js, Tailwind CSS, Blade
+  - **Database:** MySQL, MongoDB, SQLite
+  - **Version Control:** Git, GitHub, GitLab
+  - **Tools & Others:** Docker, PHPUnit, TDD, Composer, OOP, JUnit, Cypress, RESTFul API Integration, MacOS, Linux
 
 🛠 Projects I'm Proud Of:
 
