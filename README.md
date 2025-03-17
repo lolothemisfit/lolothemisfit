@@ -5,11 +5,11 @@ I'm a junior full-stack developer with a passion for building clean, efficient, 
 
 🔧 Tech Stack:
 
-  - **Backend:** Node.js, Laravel, PHP, Python, Java, SpringBoot, Javascript
-  - **Frontend:** Alpine.js, Tailwind CSS, Blade
+  - **Backend:** Node.js, Laravel, PHP, Python, Java, SpringBoot, Javascript, HTML
+  - **Frontend:** Alpine.js, Tailwind CSS, Blade, CSS
   - **Database:** MySQL, MongoDB, SQLite
-  - **Version Control:** Git, GitHub, GitLab
-  - **Tools & Others:** Docker, PHPUnit, TDD, Composer, OOP, JUnit, Cypress, RESTFul API Integration, MacOS, Linux
+  - **Version Control:** Git
+  - **Tools & Others:** Docker, PHPUnit, TDD, Composer, OOP, JUnit, Cypress, RESTFul API Integration, MacOS, Linux, GitLab, GitHub, Unit testing, Cypress
 
 🛠 Projects I'm Proud Of:
 
@@ -27,4 +27,4 @@ I'm a junior full-stack developer with a passion for building clean, efficient, 
 
 ⚡ Fun fact:
 
-  - A fun fact about me is that one day, if I work as hard as I know I can, you'll see my name in the credits for the next GTA game (not 6 of course). Oh and I have a love/obsessed relationship with ethical hacking :)...
+If I push myself as hard as I know I can, one day you'll see my name in the credits of a future GTA game (not 6, of course). Also, I have a bit of an obsession with ethical hacking! ;)...
