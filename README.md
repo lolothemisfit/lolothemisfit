@@ -1,7 +1,12 @@
 Hi there! 👋 I'm Lelona Ntshiba — Full Stack Developer in the Making 🚀
 
 💻 About Me:
-I'm a junior full-stack developer with a passion for building clean, efficient, and user-friendly web applications. I work primarily with Javascript, Python, Java, C++, Spring Boot, API integration, PHP, Laravel, Livewire, SQL, HTML, CSS, TailwindCSS, and Alpine.js. I also have experience with WordPress development and have worked with Elementor for creating custom, dynamic sites. I am keen on working on challenging yet exciting projects and strive to grow and improve in my work.
+I'm a junior full-stack developer with a passion for building clean, efficient, and user-friendly web applications. I primarily work with JavaScript, Python, PHP, Laravel, MySQL, API integrations, HTML, CSS, Tailwind CSS, and Alpine.js. I have also built personal projects using technologies such as React, Java, Spring Boot, C++, Docker, FastAPI, and GitHub Actions.
+
+In addition to software development, I have experience with WordPress development, including site maintenance, performance optimization, SEO improvements, and creating dynamic websites using Elementor.
+
+I enjoy working on challenging projects that allow me to solve real-world problems, expand my technical skills, and continuously grow as a developer.
+
 
 🔧 Tech Stack:
 
