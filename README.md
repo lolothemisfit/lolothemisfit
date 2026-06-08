@@ -11,8 +11,8 @@ I enjoy working on challenging projects that allow me to solve real-world proble
 
 🔧 Tech Stack:
 
-  - **Backend:** Laravel, PHP, Python, Java, SpringBoot, Javascript, FastAPI
-  - **Frontend:** Alpine.js, Tailwind CSS, Blade, CSS, HTML
+  - **Backend:** Laravel, PHP, Python, Java, SpringBoot, FastAPI
+  - **Frontend:** Alpine.js, Tailwind CSS, Blade, CSS, HTML, JavaScript, React
   - **Database:** MySQL, MongoDB, SQLite
   - **Version Control:** Git
   - **Tools & Others:** Docker, PHPUnit, TDD, Composer, OOP, JUnit, Cypress, RESTFul API Integration, MacOS, Linux, GitLab, GitHub, Unit testing, Cypress
