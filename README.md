@@ -15,7 +15,7 @@ I enjoy working on challenging projects that allow me to solve real-world proble
   - **Frontend:** Alpine.js, Tailwind CSS, Blade, CSS, HTML, JavaScript, React
   - **Database:** MySQL, MongoDB, SQLite
   - **Version Control:** Git
-  - **Tools & Others:** Docker, PHPUnit, TDD, Composer, OOP, JUnit, Cypress, RESTFul API Integration, MacOS, Linux, GitLab, GitHub, Unit testing, Cypress
+  - **Tools & Others:** Docker, PHPUnit, TDD, Composer, OOP, RESTFul API Integration, MacOS, Linux, GitLab, GitHub, Unit testing, Cypress end-to-end testing.
 
 🛠 Projects I'm Proud Of:
 
